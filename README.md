@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chani Surkis
+# 👋 Hi, I'm Chana Surkis
 💻 Software Developer | Building practical systems that solve real problems  
 📍 Israel  
 
