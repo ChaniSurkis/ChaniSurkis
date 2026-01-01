@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Chana Surkis
-💻 Software Developer | Building practical systems that solve real problems  
-📍 Israel  
+💻 Software Developer | Building practical systems that solve real problems   
 
 I love building backend logic, APIs, and features that make applications actually useful — from business scheduling to e-commerce and data apps.
 
