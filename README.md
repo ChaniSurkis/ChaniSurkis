@@ -64,10 +64,17 @@ Docker · GitHub · Cloudflare · VSCode
 ## 🧩 Tech Logos
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 </p>
