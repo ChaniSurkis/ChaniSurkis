@@ -1,7 +1,9 @@
-#👋 Hi, I'm Chana
- Software Developer | Building practical systems that solve real problems   
+# 👋 Hi, I'm Chana  
 
-I love building backend logic, APIs, and features that make applications actually useful — from business scheduling to e-commerce and data apps.
+**Software Developer**  
+Building practical systems that solve real-world problems.
+
+I work on backend logic and API development, turning ideas into reliable, real-world applications — from business systems to data-driven platforms.
 
 ---
 
@@ -13,7 +15,6 @@ A social quiz web app where users create a quiz and share it with friends.
 - SQL Server
 - JWT auth, email notifications  
 🔗 https://github.com/ChaniSurkis/Friendship_Quiz.git
-
 ---
 
 ### 🛍 WaterSports Shop
