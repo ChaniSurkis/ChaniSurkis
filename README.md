@@ -4,9 +4,7 @@
 Building practical systems that solve real-world problems.
 
 I work on backend logic and API development, turning ideas into reliable, real-world applications — from business systems to data-driven platforms.
-
 ---
-
 ### 🚀 Featured Projects
 
 #### 🧩 Friendship Quiz
@@ -25,7 +23,6 @@ Commercial e-commerce site for water-sports products.
 🔗 https://github.com/ChaniSurkis/WaterSports_Shop.git
 
 ---
-
 ### 🌊 Kinneret Level
 Real-time & historical water-level viewer using public government data.
 - Fetches water data from Data.gov
@@ -33,7 +30,6 @@ Real-time & historical water-level viewer using public government data.
 🔗 https://github.com/ChaniSurkis/Kinneret_Level.git
 
 ---
-
 ### 📅 Biz-Control
 Appointment & client-management system for small businesses.
 - FastAPI (Python)
@@ -43,7 +39,6 @@ Appointment & client-management system for small businesses.
 🔗 https://github.com/ChaniSurkis/Biz-Control.git
 
 ---
-
 ## 👩‍💻 Internship – DiversiTech (PractiCode) | 2025
 Worked on **Eventix**, a community events platform:
 - Built APIs – auth + event flows (Node.js + PostgreSQL)
@@ -52,14 +47,12 @@ Worked on **Eventix**, a community events platform:
 - Documentation, debugging, deployment exposure (Render)
 
 ---
-
 ## 🧰 Tech Stack
 Node.js · Express · FastAPI · Python  
 JavaScript (ES6+) · TypeScript  
 React · Redux · Material UI · TailwindCSS  
 PostgreSQL · SQL Server  
 Docker · GitHub · Cloudflare · VSCode
-
 ---
 
 ## 🧩 Tech Logos
