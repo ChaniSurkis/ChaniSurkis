@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Chana Surkis
-💻 Software Developer | Building practical systems that solve real problems   
+#👋 Hi, I'm Chana
+ Software Developer | Building practical systems that solve real problems   
 
 I love building backend logic, APIs, and features that make applications actually useful — from business scheduling to e-commerce and data apps.
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🧩 Friendship Quiz
+#### 🧩 Friendship Quiz
 A social quiz web app where users create a quiz and share it with friends.
 - Node.js + Express
 - SQL Server
