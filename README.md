@@ -7,7 +7,7 @@ I work on backend logic and API development, turning ideas into reliable, real-w
 ---
 ### 🚀 Featured Projects
 
-###Friendship Quiz
+Friendship Quiz
 A social quiz web app where users create a quiz and share it with friends.
 - Node.js + Express
 - SQL Server
