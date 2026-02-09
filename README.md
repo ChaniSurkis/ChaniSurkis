@@ -3,7 +3,7 @@
 **Software Developer**
 Building practical systems that solve real-world problems.
 
-I work on backend logic and API development, turning ideas into reliable, real-world applications — from business systems to data-driven platforms.
+**I work on backend logic and API development, turning ideas into reliable, real-world applications — from business systems to data-driven platforms.**
 ---
 ### 🚀 Featured Projects
 
