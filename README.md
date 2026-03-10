@@ -1,18 +1,35 @@
 # 👋 Hi, I'm Chana  
-
 **Software Developer**
+
 Building practical systems that solve real-world problems.
 
-**I work on backend logic and API development, turning ideas into reliable, real-world applications — from business systems to data-driven platforms.**
+**I work on backend logic and API development, turning ideas into reliable, real-world applications — from business systems to AI-powered platforms.**
+
 ---
+
 ### 🚀 Featured Projects
 
-Friendship Quiz
+---
+
+### 🎙️ Meeting Summarizer ⭐ NEW
+AI-powered meeting intelligence platform — upload an audio recording and get a structured summary, key points, and action items instantly.
+- FastAPI + Python backend
+- OpenAI Whisper (speech-to-text) + GPT-4o (summarization)
+- React + TypeScript + Tailwind CSS
+- PostgreSQL (Supabase) · Async background processing
+
+🔗 https://github.com/ChaniSurkis/meeting-summarizer
+
+---
+
+### 🤝 Friendship Quiz
 A social quiz web app where users create a quiz and share it with friends.
 - Node.js + Express
 - SQL Server
 - JWT auth, email notifications  
+
 🔗 https://github.com/ChaniSurkis/Friendship_Quiz.git
+
 ---
 
 ### 🛍 WaterSports Shop
@@ -20,25 +37,31 @@ Commercial e-commerce site for water-sports products.
 - React + Redux + Router
 - Node.js backend
 - Cart + admin product control  
+
 🔗 https://github.com/ChaniSurkis/WaterSports_Shop.git
 
 ---
+
 ### 🌊 Kinneret Level
 Real-time & historical water-level viewer using public government data.
 - Fetches water data from Data.gov
 - Data conversion + UI display  
+
 🔗 https://github.com/ChaniSurkis/Kinneret_Level.git
 
 ---
+
 ### 📅 Biz-Control
 Appointment & client-management system for small businesses.
 - FastAPI (Python)
 - PostgreSQL
 - Docker
 - Users, scheduling, notifications, analytics  
+
 🔗 https://github.com/ChaniSurkis/Biz-Control.git
 
 ---
+
 ## 👩‍💻 Internship – DiversiTech (PractiCode) | 2025
 Worked on **Eventix**, a community events platform:
 - Built APIs – auth + event flows (Node.js + PostgreSQL)
@@ -47,12 +70,15 @@ Worked on **Eventix**, a community events platform:
 - Documentation, debugging, deployment exposure (Render)
 
 ---
+
 ## 🧰 Tech Stack
 Node.js · Express · FastAPI · Python  
 JavaScript (ES6+) · TypeScript  
 React · Redux · Material UI · TailwindCSS  
 PostgreSQL · SQL Server  
+OpenAI API · LangChain  
 Docker · GitHub · Cloudflare · VSCode
+
 ---
 
 ## 🧩 Tech Logos
@@ -70,5 +96,6 @@ Docker · GitHub · Cloudflare · VSCode
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 </p>
