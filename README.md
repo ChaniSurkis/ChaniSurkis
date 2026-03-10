@@ -10,13 +10,14 @@ Building practical systems that solve real-world problems.
 ### 🚀 Featured Projects
 
 ---
-
 ### 🎙️ Meeting Summarizer ⭐ NEW
 AI-powered meeting intelligence platform — upload an audio recording and get a structured summary, key points, and action items instantly.
 - FastAPI + Python backend
 - OpenAI Whisper (speech-to-text) + GPT-4o (summarization)
 - React + TypeScript + Tailwind CSS
 - PostgreSQL (Supabase) · Async background processing
+- 🔍 RAG semantic search across all meetings using ChromaDB + OpenAI Embeddings
+- 📄 PDF export for every meeting report
 
 🔗 https://github.com/ChaniSurkis/meeting-summarizer
 
