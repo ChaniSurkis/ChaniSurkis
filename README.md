@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Chana  
 **Software Developer**
 
-Building practical systems that solve real-world problems.
-
-**I work on backend logic and API development, turning ideas into reliable, real-world applications — from business systems to AI-powered platforms.**
-
+🚀 Full-stack developer building end-to-end applications — from robust backend systems and REST APIs to modern, responsive frontends.
+💡 Turning ideas into real-world products, one clean commit at a time.
 ---
 
 ### 🚀 Featured Projects
