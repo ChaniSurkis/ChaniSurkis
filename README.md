@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Chana  
 **Software Developer**
+
 🧩 Full-stack developer building end-to-end applications — from robust backend systems and REST APIs to modern, responsive frontends.
 
 💡 Turning ideas into real-world products — one clean commit at a time.
