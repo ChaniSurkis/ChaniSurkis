@@ -23,7 +23,7 @@ AI-powered meeting intelligence platform — upload an audio recording and get a
 
 ---
 
-### 🤝 Friendship Quiz
+### 👥 Friendship Quiz
 A social quiz web app where users create a quiz and share it with friends.
 - Node.js + Express
 - SQL Server
@@ -63,7 +63,7 @@ Appointment & client-management system for small businesses.
 
 ---
 
-## 👩‍💻 Internship – DiversiTech (PractiCode) | 2025
+## 🖥️ Internship – DiversiTech (PractiCode) | 2025
 Worked on **Eventix**, a community events platform:
 - Built APIs – auth + event flows (Node.js + PostgreSQL)
 - React + TypeScript UI components
