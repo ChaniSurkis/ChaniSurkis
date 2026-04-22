@@ -10,7 +10,7 @@
 ### 🚀 Featured Projects
 
 ---
-### 🎙️ Meeting Summarizer ⭐ NEW
+### 🎙️ Meeting Summarizer ⭐ 
 AI-powered meeting intelligence platform — upload an audio recording and get a structured summary, key points, and action items instantly.
 - FastAPI + Python backend
 - OpenAI Whisper (speech-to-text) + GPT-4o (summarization)
